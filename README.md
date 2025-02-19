@@ -1,4 +1,4 @@
 - 1st year,  1st semester.
 - I.T group project, 3 frontends, 2 backends.
-- Game built on website, 2048.
+- 2048 Game built on website, using A.I (ChatGPT, Poe, Gemini).
 - HTML, CSS, Javascript.
