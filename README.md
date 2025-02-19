@@ -1,0 +1,4 @@
+- 1st year,  1st semester.
+- I.T group project, 3 frontends, 2 backends.
+- Game built on website, 2048.
+- HTML, CSS, Javascript.
